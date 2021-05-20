@@ -2,10 +2,10 @@
 Hello,
 
 dependencies:
-1.Node Package Manager (NPM)
-2.Truffle Framework, terminal: $ npm install -g truffle
-3.download and install ganache: https://www.trufflesuite.com/ganache
-4.add metamask extension for Google Chrome.
+1. Node Package Manager (NPM)
+2. Truffle Framework, terminal: $ npm install -g truffle
+3. download and install ganache: https://www.trufflesuite.com/ganache
+4. add metamask extension for Google Chrome.
 
 
 
