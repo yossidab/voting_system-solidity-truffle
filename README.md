@@ -15,10 +15,10 @@ For activate the system in your localhost after cloning, fellow the next steps:
 1) install dependencies
 2) navigate to project folder on terminal
 3) activete ganache (use quick start option)
-6)truffle migrate --reset
-7)$npm run dev
-8)connect metamask to one of the account on ganache (in localhost network)
-9) activate truffle console with: "truffle console"
-10) in order to use our app use: " Election.deployed().then(function(instance) { app = instance }) "
-11) to vote: app.vote("1",'one of the address in the ganache')
-12) to add candidate: app.addNewCandidate("name") //only owner can add new candidate
+4)truffle migrate --reset
+5)$npm run dev
+6)connect metamask to one of the account on ganache (in localhost network)
+7) activate truffle console with: "truffle console"
+8) in order to use our app use: " Election.deployed().then(function(instance) { app = instance }) "
+9) to vote: app.vote("1",'one of the address in the ganache')
+10) to add candidate: app.addNewCandidate("name") //only owner can add new candidate
